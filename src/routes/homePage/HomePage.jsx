@@ -5,7 +5,7 @@ export default function homePage() {
     <div className='homePage'>
       <div className="textContainer">
         <div className="wrapper">
-        <h1>Find Real Estate & Get Your Dream Place</h1>
+        <h1 className='title'>Find Real Estate & Get Your Dream Place</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi animi consectetur doloribus voluptatem accusamus labore at, corrupti autem minus repellat debitis ipsum laudantium, ipsam sit, maxime possimus dolor. Perferendis, aspernatur.</p>
 
         <Searchbar/>
